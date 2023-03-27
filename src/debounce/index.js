@@ -44,3 +44,4 @@ export default function debounce(fn, delay, immediate = false) {
 
 	return _debounce;
 }
+
